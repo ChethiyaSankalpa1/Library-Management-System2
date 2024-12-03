@@ -1,0 +1,27 @@
+/* Set the background color and text color */
+body {
+    background-color: #1d2630;
+    color: #fff;
+}
+
+/* Style the table */
+#bookTable {
+    color: #fff;
+}
+
+/* Style the modal content */
+.modal {
+    color: #000;
+}
+
+/* Adjust button colors */
+.btn-warning {
+    color: #fff;
+}
+
+.btn-success {
+    color: #fff;
+}
+h1{
+    text-size-adjust: 300%;
+}
